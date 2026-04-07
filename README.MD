@@ -1,0 +1,1 @@
+Un bot de discord con multicomandos que calcule la huella de carbono de una persona con varias preguntas, tenga un sistema de "retos" en el que consigas puntos para tener un ranking en el servidor, además brindara ayuda al dar tips a los usuarios. Voy a ver si le agrego más cositas.
