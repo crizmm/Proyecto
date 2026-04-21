@@ -31,6 +31,7 @@ Este proyecto puede utilizarse para:
   * Descripción
   * Dificultad
   * Recompensa en puntos
+  * Un ID
 
 ### ✅ Sistema de progreso
 
